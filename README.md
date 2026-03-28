@@ -158,5 +158,6 @@ Feel free to fork this repo and submit a PR.
 
 Rohit Ranmale
 
-GitHub: https://github.com/your-username
-Portfolio: https://your-portfolio-link
+GitHub: https://github.com/rohitranmale11
+Portfolio: https://rohitranmale.in
+
